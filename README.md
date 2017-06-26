@@ -3,7 +3,6 @@
 Directory structure
 
 - UserName
-    - python script
-	    - push_swap (cloned repo)
-		        - root of cloned repo
-				    - log files
+	- push_swap (cloned repo)
+	    - root of cloned repo
+	- log files
